@@ -1,2 +1,2 @@
 # Example
-Example for Git graduate course completed on 5/11/21
+Example repository for Git graduate course completed on 5/11/21
